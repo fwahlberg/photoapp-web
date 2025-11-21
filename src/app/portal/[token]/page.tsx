@@ -1,6 +1,6 @@
 import { fetchJSON } from "@/lib/api";
 import { notFound } from "next/navigation";
-
+//Testing
 type Shoot = {
   id: number;
   title: string;
